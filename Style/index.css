@@ -1,6 +1,14 @@
 .contenedor{
     text-align: center;
     font-family: fantasy;
+
+}
+
+.texto{
+    text-align: center;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
 }
 
 body{
